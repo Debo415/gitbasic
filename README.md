@@ -1,4 +1,6 @@
 # gitbasic
 This is my start with git repository.
 <br>
-Author-Deboborni
+This is my first modification.
+<br> <br>
+Author: Deboborni (abd123)
